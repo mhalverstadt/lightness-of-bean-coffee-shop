@@ -1,11 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
-/*
-	Big Picture by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -1539,7 +1534,7 @@ input, select, textarea {
 				transition-delay: 0.3s;
 			}
 
-			.gallery article:nth-last-child(7n) {
+			/* .gallery article:nth-last-child(7n) {
 				-moz-transition-delay: 0.35s;
 				-webkit-transition-delay: 0.35s;
 				-ms-transition-delay: 0.35s;
@@ -1775,7 +1770,7 @@ input, select, textarea {
 				-webkit-transition-delay: 1.15s;
 				-ms-transition-delay: 1.15s;
 				transition-delay: 1.15s;
-			}
+			} */
 
 		.gallery.inactive article {
 			opacity: 0;
