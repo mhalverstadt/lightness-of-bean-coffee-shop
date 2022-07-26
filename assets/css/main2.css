@@ -1291,7 +1291,6 @@ input, select, textarea {
 			opacity: 0;
 			cursor: pointer;
 			background: rgba(0, 0, 0, 0.01);
-			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 		}
 
 		.poptrox-popup .nav-next:before,
@@ -1353,7 +1352,6 @@ input, select, textarea {
 			text-indent: -9999px;
 			z-index: 2;
 			opacity: 0;
-			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 		}
 
 			.poptrox-popup .closer:before {
@@ -2156,11 +2154,6 @@ input, select, textarea {
 		display: flex;
 		flex-direction: row, wrap;
 		justify-content: space-around;
-	}
-	.address {
-	}
-	.hours {
-	
 	}
 	.contactInfo {
 		border: 1px solid black
