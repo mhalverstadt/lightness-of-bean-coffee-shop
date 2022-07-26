@@ -46,9 +46,6 @@ table {
 	border-spacing: 0;
 }
 
-body {
-	-webkit-text-size-adjust: none;
-}
 
 mark {
 	background-color: transparent;
@@ -69,9 +66,6 @@ input, select, textarea {
 
 /* Basic */
 
-	@-ms-viewport {
-		width: device-width;
-	}
 
 	html {
 		height: 100%;
@@ -583,7 +577,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		color: #98c593;
+		/* color: #98c593; */
 	}
 
 	sub {
@@ -915,6 +909,7 @@ input, select, textarea {
 		text-decoration: none;
 		position: relative;
 		text-decoration: none;
+		color: #39454b;
 	}
 
 		.icon:before {
@@ -2193,7 +2188,7 @@ input, select, textarea {
 		line-height: 1em;
 		padding: 1.5em;
 		background: #39454b;
-		color: rgba(185, 186, 187, 0.5);
+		color: rgba(236, 236, 236, 0.5);
 		overflow: hidden;
 	}
 
