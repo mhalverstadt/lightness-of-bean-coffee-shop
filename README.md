@@ -5,6 +5,7 @@ Simple and responsive single page landing site for a coffee shop in Denver.
 **Link to project:** https://lightness-of-bean.netlify.app/
 
 
+![Screenshot 2022-08-25 123928](https://user-images.githubusercontent.com/102763323/186746534-327bb26b-9b9c-47c6-8dcd-2836be23d3b7.jpg)
 
 
 ## How It's Made:
